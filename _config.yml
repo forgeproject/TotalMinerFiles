@@ -3,3 +3,16 @@ description: Total Miner Files are here and free
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+exclude:  
+  - ".gitignore"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "another-page.md"
+  - "_config.yml"
+  - "index.md"
+  - "jekyll-theme-hacker.gemspec"
+  - ".travis.yml"
+  - ".rubocop.yml"
+ 
+  
