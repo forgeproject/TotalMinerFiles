@@ -1,4 +1,4 @@
 # Total Miner Files
 
-![Thumbnail](TMImg.png)
+![Thumbnail](TMImg.jpeg)
 
