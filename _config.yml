@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: ForgeProject's homepage
-description: Bookmark this to keep an eye on my project updates! Here are all the files I use for modding scripting/lua code and anything else I think of ill add here.
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
