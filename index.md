@@ -17,7 +17,7 @@ layout: default
   <a href="forgeproject.net"><strong>Total Miner Official Discord »</strong></a>
   <br>
   <br>
-  <a href="[https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml](https://github.com/forgeproject/forgeproject.github.io/issues)">Report bug</a>
+  <a href="https://github.com/forgeproject/forgeproject.github.io/issues">Report bug</a>
   ·
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
   ·
