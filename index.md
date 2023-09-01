@@ -19,7 +19,7 @@ layout: default
   <br>
   <a href="https://github.com/forgeproject/forgeproject.github.io/issues">Report bug</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
+  <a href="https://github.com/forgeproject/forgeproject.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement">Request feature</a>
   ·
 </p>
 
