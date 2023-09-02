@@ -51,8 +51,7 @@ title: "Index"
 - [cmartin99 github page](https://github.com/cmartin99)
 - [Reference Guide](https://cmartin99.github.io/index)
 
-
-### Read the [Read Me Document](./another-page.md) for information on the contents, templates, maps, examples, and more.
+Read the [Read Me Document](./another-page.md) for information on the contents, templates, maps, examples, and more.
 
 
 ## Status
