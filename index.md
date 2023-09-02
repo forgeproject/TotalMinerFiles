@@ -55,7 +55,7 @@ Several quick start options are available:
 - Link3 [link](https:): `link`
 - Link4 [link](https:): `link`
 
-Read the [ReadMe Document](/another-page.md) for information on the framework contents, templates, examples, and more.
+Read the [ReadMe Document](./another-page.md) for information on the framework contents, templates, examples, and more.
 
 
 ## Status
