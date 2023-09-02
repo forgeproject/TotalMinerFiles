@@ -36,7 +36,6 @@ Our goal is to help new players in Total Miner  [`v2.9.4`](https://discord.com/c
 - [Status](#status)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Community](#community)
 - [Versioning](#versioning)
@@ -51,8 +50,7 @@ Several quick start options are available:
 - [Download the latest release](https://github.com/forgeproject/forgeproject.github.io/archive/refs/heads/main.zip)
 - [cmartin99 github page](https://github.com/cmartin99)
 - [Reference Guide](https://cmartin99.github.io/index)
-- Link3 [link](https:) 
-- Link4 [link](https:)
+
 
 Read the [Read Me Document](./another-page.md) for information on the contents, templates, maps, examples, and more.
 
@@ -70,11 +68,6 @@ Maps, Mods, tutorials and more!
 ## Bugs and feature requests
 
 none
-
-
-## Documentation
-
-coming soon
 
 
 ## Contributing
