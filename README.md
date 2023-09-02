@@ -1,2 +1,2 @@
 # forgeproject.github.io
-Here is where I will keep all my files for share for the Xbox and Steam game Total Miner
+Here is where I will keep all my files for the Steam game Total Miner.
