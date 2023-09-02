@@ -18,6 +18,7 @@ title: "Index"
   <a href="https://discord.gg/totalminer"><strong>Total Miner Official Discord »</strong></a>
   <br>
   <br>
+  ·
   <a href="https://github.com/forgeproject/forgeproject.github.io/issues">Report bug</a>
   ·
   <a href="https://github.com/forgeproject/forgeproject.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement">Request feature</a>
@@ -27,7 +28,7 @@ title: "Index"
 
 ## Web Info
 
-Our goal here is to help new players in Total Miner  [`v2.9.4`](https://discord.com/channels/259780503115137028/655266423484186673) 
+Our goal is to help new players in Total Miner  [`v2.9.4`](https://discord.com/channels/259780503115137028/655266423484186673) 
 
 ## Table of contents
 
@@ -48,12 +49,12 @@ Our goal here is to help new players in Total Miner  [`v2.9.4`](https://discord.
 Several quick start options are available:
 
 - [Download the latest release](https://github.com/forgeproject/forgeproject.github.io/archive/refs/heads/main.zip)
-- Link1 [link](https:): `link`
-- Link2 [link](https:): `link`
-- Link3 [link](https:): `link`
-- Link4 [link](https:): `link`
+- [cmartin99 github page](https://github.com/cmartin99)
+- [Reference Guide](https://cmartin99.github.io/index)
+- Link3 [link](https:) 
+- Link4 [link](https:)
 
-Read the [ReadMe Document](./another-page.md) for information on the framework contents, templates, examples, and more.
+Read the [Read Me Document](./another-page.md) for information on the contents, templates, maps, examples, and more.
 
 
 ## Status
