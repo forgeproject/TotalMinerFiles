@@ -1,8 +1,8 @@
 ---
-title: "404 - File not found"
-layout: 404
-description: ""
-url: /404.html
+title: "test"
+layout: default
+description: "test description"
+url: /another-page.html
 robots: noindex,follow
 sitemap_exclude: true
 ---
