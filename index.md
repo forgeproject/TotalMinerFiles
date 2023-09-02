@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "Index"
+permalink: /ForgeProject/
+author_profile: true
 ---
 <p align="center">
   <a href="forgeproject.net/">
