@@ -28,7 +28,7 @@ title: "Index"
 
 ## Web Info
 
-Our goal is to help new players in Total Miner  [`v2.9.4`](https://discord.com/channels/259780503115137028/655266423484186673) 
+### Our goal is to help new players in Total Miner  [`v2.9.4`](https://discord.com/channels/259780503115137028/655266423484186673) 
 
 ## Table of contents
 
@@ -45,44 +45,44 @@ Our goal is to help new players in Total Miner  [`v2.9.4`](https://discord.com/c
 
 ## Quick start
 
-Several quick start options are available:
+### Several quick start options are available:
 
 - [Download the latest release](https://github.com/forgeproject/forgeproject.github.io/archive/refs/heads/main.zip)
 - [cmartin99 github page](https://github.com/cmartin99)
 - [Reference Guide](https://cmartin99.github.io/index)
 
 
-Read the [Read Me Document](./another-page.md) for information on the contents, templates, maps, examples, and more.
+### Read the [Read Me Document](./another-page.md) for information on the contents, templates, maps, examples, and more.
 
 
 ## Status
 
-Just getting started come back later
+### Just getting started come back later
 
 
 ## What's included
 
-Maps, Mods, tutorials and more!
+### Maps, Mods, tutorials and more!
 
 
 ## Bugs and feature requests
 
-none
+### none
 
 
 ## Contributing
 
-none
+### none
 
 
 ## Community
 
-Thank you all on the Total Miner Discord community for all the support!!!
+### Thank you all on the Total Miner Discord community for all the support!!!
 
 
 ## Versioning
 
-Current Version 2.9.4
+### Current Version 2.9.4
 
 
 ## Admins
