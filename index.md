@@ -86,7 +86,7 @@ Current Version 2.9.4
 ## Admins
 
 **B1ack W1dow**
-- <https://twitter.com/Whi7eW1dow>
-- <https://github.com/forgeproject>
+- [Twitter]<https://twitter.com/Whi7eW1dow>
+- [Discord]<https://discord.com/invite/xgrfVgD24z>
 
 
