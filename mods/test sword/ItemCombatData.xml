@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfModItemCombatDataXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModItemCombatDataXML>
+    <CombatID>sword</CombatID>
+    <Health>100</Health>
+    <Attack>100</Attack>
+    <Strength>100</Strength>
+    <Defence>100</Defence>
+    <Looting>500</Looting>
+  </ModItemCombatDataXML>
+</ArrayOfModItemCombatDataXML>

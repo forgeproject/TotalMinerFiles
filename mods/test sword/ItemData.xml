@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfModItemDataXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModItemDataXML>
+    <ItemID>sword</ItemID>
+    <Name>sword</Name>
+    <Desc>sword</Desc>
+    <LockedDD>false</LockedDD>
+    <Durability>100</Durability>
+    <StrikeDamage>300</StrikeDamage>
+    <StrikeReach>3</StrikeReach>
+    <ParticleLight>15</ParticleLight>
+  </ModItemDataXML>
+</ArrayOfModItemDataXML>

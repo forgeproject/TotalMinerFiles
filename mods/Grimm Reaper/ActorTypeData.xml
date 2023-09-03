@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ArrayOfModActorTypeDataXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModActorTypeDataXML>
+    <ActorType>Reaper</ActorType>
+    <LevelType>Reaper</LevelType>
+    <PhysicsType>Reaper</PhysicsType>
+    <AIType>Reaper</AIType>
+    <ComName>Reaper</ComName>
+    <ModelHeight>2.8</ModelHeight>
+    <ModelYRotation>0</ModelYRotation>
+    <IsValid>true</IsValid>
+    <IsFemale>true</IsFemale>
+    <IsPassive>false</IsPassive>
+    <IsImmuneToFire>true</IsImmuneToFire>
+    <HasNameplate>true</HasNameplate>
+    <HandMaxHit>3</HandMaxHit>
+    <NaturalSpawnFreq>10</NaturalSpawnFreq>
+    <NaturalBehaviour>System\AI\Werewolf</NaturalBehaviour>
+    <LootTable>
+      <LootItem>
+        <Chance>10</Chance>
+        <DamageType>Combat</DamageType>
+        <Block>NecromancerStaff</Block>
+        <Count1>1</Count1>
+        <Count2>2</Count2>
+      </LootItem>
+      <LootItem>
+        <Chance>20</Chance>
+        <DamageType>Combat</DamageType>
+        <Item>GoldPieces</Item>
+        <Count1>1</Count1>
+        <Count2>2</Count2>
+      </LootItem>
+    </LootTable>
+  </ModActorTypeDataXML>
+ 
+</ArrayOfModActorTypeDataXML>

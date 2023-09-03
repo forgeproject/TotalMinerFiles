@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfModActorLevelDataXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModActorLevelDataXML>
+    <ActorLevelType>Reaper</ActorLevelType>
+    <HealthLevel>1</HealthLevel>
+    <AttackLevel>100</AttackLevel>
+    <StrengthLevel>100</StrengthLevel>
+    <DefenceLevel>1</DefenceLevel>
+    <RangedLevel>1</RangedLevel>
+  </ModActorLevelDataXML>
+
+</ArrayOfModActorLevelDataXML>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfModActorAIDataXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModActorAIDataXML>
+    <ActorAIType>Reaper</ActorAIType>
+    <StrikeDelay>3</StrikeDelay>
+    <StrikeRange>2</StrikeRange>
+    <RegardRange>40</RegardRange>
+    <HearingRange>40</HearingRange>
+    <AttackRange>35</AttackRange>
+    <InactiveRange>60</InactiveRange>
+  </ModActorAIDataXML>
+
+</ArrayOfModActorAIDataXML>

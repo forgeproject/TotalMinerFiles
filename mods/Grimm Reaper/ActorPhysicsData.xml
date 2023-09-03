@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfModActorPhysicsDataXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModActorPhysicsDataXML>
+    <ActorPhysicsType>Reaper</ActorPhysicsType>
+    <Acceleration>0.1</Acceleration>
+    <MoveSpeed>0.5</MoveSpeed>
+    <JumpSpeed>0.1</JumpSpeed>
+    <RotateSpeed>0.03</RotateSpeed>
+  </ModActorPhysicsDataXML>
+  
+</ArrayOfModActorPhysicsDataXML>
