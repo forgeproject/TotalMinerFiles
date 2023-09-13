@@ -55,12 +55,16 @@ Read the [Read Me Document](./another-page.md) for information on the contents, 
 
 ## Status
 
-Just getting started come back later
+Just getting started...
+<br>
+Scripting documents and help working on updates.
+<br>
+Looking for builders and scripters. 
 
 
 ## What's included
 
-Maps, Mods, tutorials and more!
+Maps, Mods, Scripting, Tutorials and more!
 
 
 ## Bugs and feature requests
